@@ -2,6 +2,8 @@
 
 A React-based dashboard for tracking and managing AI safety incidents. The application features a modern UI with light/dark mode support, local storage for data persistence, and a modal form for reporting new incidents. Users can filter and sort incidents by severity and date, and view detailed descriptions of each incident.
 
+### Live Link: https://sparklehood-assignment-ten.vercel.app/
+
 ---
 
 ## 🛠️ Tech Stack & Framework Choices
