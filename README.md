@@ -28,7 +28,7 @@ A React-based dashboard for tracking and managing AI safety incidents. The appli
 
 1. **Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rahul-0410/SPARKLEHOOD_Assignment.git
 cd dashboard
 ```
 
